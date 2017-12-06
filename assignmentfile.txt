@@ -1,0 +1,14 @@
+This program
+File
+is for
+assigment 1
+on excercise 10.10
+The file extension
+Is bak
+I must create
+A new 
+Directory 
+for This
+and hit 
+CD 
+in PYTHON SHELL

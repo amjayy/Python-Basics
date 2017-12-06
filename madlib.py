@@ -1,0 +1,18 @@
+print("Give me an adjective, please.")
+adjective1 = input().lower()
+print("Thanks!")
+print("Give me a plural noun,please.")
+noun1 = input()
+print("Thanks!")
+print("Give me a  proper noun, please.")
+proper_noun = input()
+print("Give me another adjective, please")
+adjective2 = input().lower()
+
+title= 'Silly Song'
+print(title) 
+print(" Chickadees are " + adjective1)
+print(noun1 + " and this song  are probably trash")
+print(proper_noun + " is " + adjective2)
+print(" But, Jokes on you.")
+print( "You're still reading this and making no cash")
